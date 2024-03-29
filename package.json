@@ -3,6 +3,6 @@
   "description": "Server-side Arethusa",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.9.0"
+    "express": "4.19.2"
   }
 }
